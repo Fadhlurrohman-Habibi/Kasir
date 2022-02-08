@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kasir</string>
+    <string name="hapus_data">Hapus Data</string>
+    <string name="keluar">Keluar</string>
+    <string name="username">Username</string>
+    <string name="login_form">Login Form</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+
+</resources>
